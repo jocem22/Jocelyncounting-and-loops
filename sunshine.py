@@ -10,7 +10,8 @@ print("Ain't no sunshine when she's gone")
 print("And this house just ain't no home")
 print("Anytime she goes away")
 print("")
-print("I know")
+for count in range(20):
+    print("I know")
 print("")
 print("Hey, I oughta leave young thing alone")
 print("But ain't no sunshine when she's gone")
@@ -21,6 +22,4 @@ print("Ain't no sunshine when she's gone")
 print("And this house just ain't no home")
 for count in range(4):
     print("Anytime she goes away")
-for count in range(20):
-    print("I know")
        
